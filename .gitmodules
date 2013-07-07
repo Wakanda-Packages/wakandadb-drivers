@@ -1,0 +1,3 @@
+[submodule "sencha-wakanda"]
+	path = sencha-wakanda
+	url = https://github.com/revolunet/sencha-wakanda
